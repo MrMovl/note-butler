@@ -1,20 +1,10 @@
-#**TwitterBot-NodeJS**  
+#**note-butler**  
 
-### Show some :heart:
-[![GitHub stars](https://img.shields.io/github/stars/nisrulz/twitterbot-nodejs.svg?style=social&label=Star)](https://github.com/nisrulz/twitterbot-nodejs) [![GitHub forks](https://img.shields.io/github/forks/nisrulz/twitterbot-nodejs.svg?style=social&label=Fork)](https://github.com/nisrulz/twitterbot-nodejs/fork) [![GitHub watchers](https://img.shields.io/github/watchers/nisrulz/twitterbot-nodejs.svg?style=social&label=Watch)](https://github.com/nisrulz/twitterbot-nodejs) [![GitHub followers](https://img.shields.io/github/followers/nisrulz.svg?style=social&label=Follow)](https://github.com/nisrulz/twitterbot-nodejs)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/nisrulz.svg?style=social)](https://twitter.com/nisrulz) 
+This Twitter Bot will hopefully become my personal note taking assistant. The plan is to send him tweets that he write down for me somewhere. Not yet sure where, but we'll see.
 
-Yeah it pretty much does what it says in the title. Its a twitter bot which can post tweets, retweet other tweets and possibly fav tweets.
 
-This is a simple bot , to build which I had to go through a lot of information on the internet possibly because it wasn't updated/consistent. Plus I wanted to learn how build a bot anyhow ;)
-
-Currently active bot using the same code is [GDGND Bot](https://twitter.com/gdgndbot).
-Hopefully it helps some other people who want to build their own bot.
-
-Simple.Easy.Cute (Ok, last one didnot go with the flow..) 
-
-> It attempts to retweet once per hour
-
+### Taken from the original repo
+---
 
 ##Installation
 
@@ -79,17 +69,9 @@ You might want to push this app to a running server , probably [heroku](https://
 -
 > Do not misuse the twitter api to spam or burden the server load for twitter api , as twitter follows a strict rule of closing down accounts that do that. Please read [here for the rules](https://support.twitter.com/articles/18311)
 
--
-+ **Star** - If you like it
-+ **Fork** - If you like to build your own version
-+ **File an issue** - If you found a bug
-+ **Send a pull request** - If you want to contribute
 
 #### Credits
 [Twit Library](https://github.com/ttezel/twit)
-
-
-> If you found this bot helpful or you learned something from the source code and want to thank me, consider [buying me a cup of](https://www.paypal.me/nisrulz) :coffee:
 
 License
 =======
